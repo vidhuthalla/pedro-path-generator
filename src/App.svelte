@@ -419,7 +419,7 @@
       class="h-full aspect-square rounded-lg shadow-md bg-neutral-50 dark:bg-neutral-900 relative overflow-clip"
     >
       <img
-        src="/fields/intothedeep.webp"
+        src="/fields/Juice-DECODE-Dark.png"
         alt="Field"
         class="absolute top-0 left-0 w-full h-full rounded-lg z-10 pointer-events-none"
       />
